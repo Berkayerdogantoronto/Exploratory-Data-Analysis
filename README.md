@@ -37,10 +37,25 @@ And moreover in the project, By addressing these questions, we seek to provide v
   ![U](https://github.com/Berkayerdogantoronto/Exploratory-Data-Analysis/assets/141277627/1b1d7809-09ce-4ffe-a86c-5c24d8bcc965)
 
 * Looking ahead to the next year, it's clear that many people want to learn specific programming languages. Python is at the top, likely because it's used in a wide range of jobs, from websites to data work. JavaScript is a close second because it's vital for web development, while HTML/CSS are the basics of web design. SQL is important for managing data, and TypeScript is gaining interest for making web projects more stable and reliable. These choices show a desire to gain skills that are practical, in-demand, and open doors to different job opportunities in the world of programming.
+ ![CA](https://github.com/Berkayerdogantoronto/Exploratory-Data-Analysis/assets/141277627/f34007bc-c68f-4322-91ff-c3de1e54a43c)
+
 * Iran, Israel, and China have the highest working hours, followed by the United States. However, there isn't a difference between work hours and the average working hours seem to be around 40 hours per week.
+  ![DE](https://github.com/Berkayerdogantoronto/Exploratory-Data-Analysis/assets/141277627/af1b4b65-4cc9-472f-9c91-4d9ca66d2f9d)
+
 * India and the United States stand out as the leading contributors to this demographic, underscoring the international nature of the software industry. Additionally, the strong representation of countries from Europe, South America, and North America suggests that early-career developers are distributed across various regions, reflecting the diverse and dynamic nature of the developer community in these age brackets.
+  ![HG](https://github.com/Berkayerdogantoronto/Exploratory-Data-Analysis/assets/141277627/fba076e4-5394-4323-a1fa-02ba8a15a6f8)
+
 * Most developers express satisfaction with their jobs, with "Very Satisfied" and "Slightly Satisfied" being the predominant responses, while a smaller minority holds stronger feelings of dissatisfaction.
+  ![JS](https://github.com/Berkayerdogantoronto/Exploratory-Data-Analysis/assets/141277627/2337cbc8-6679-4534-b391-d6b688098ad7)
+
 * The analysis reveals a significant relationship between a developer's choice of database technologies, starting with MySQL, followed by PostgreSQL, Microsoft SQL Server, SQLite, MongoDB, Redis, MariaDB, and Oracle, and their years of coding experience. The substantial Chi-squared value (151,173.44) indicates variations in the preferences for these database technologies, while the extremely low p-value (approximately 6.36e-280) confirms this relationship as non-random. In practical terms, this underscores that developers with different experience levels tend to favor distinct database technologies, emphasizing the importance of considering these preferences within the software development community.
+![SB](https://github.com/Berkayerdogantoronto/Exploratory-Data-Analysis/assets/141277627/c0b059c8-d9f6-4ed5-9b63-77f72b387061)
+
+
+* The data indicates that 'Middle Eastern' and 'South Asian' developers tend to work the longest hours on average more than 40 hours, followed by 'White' developers. 'East Asian' and 'Hispanic or Latino' developers also have relatively high average working hours, while 'Black' developers, on average, work the fewest hours. It's important to note that this analysis is based on survey responses, and the results may not fully represent the true work patterns of developers from these ethnic backgrounds. Various factors, such as job roles, work environments, and personal preferences, can influence working hours. Therefore, the findings should be interpreted with caution, and individual experiences may vary.
+
+  ![AS](https://github.com/Berkayerdogantoronto/Exploratory-Data-Analysis/assets/141277627/dd57cea7-5919-40ef-b11d-f1856fc8ee2a)
+
 
 
 

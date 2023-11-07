@@ -23,6 +23,8 @@ And moreover in the project, By addressing these questions, we seek to provide v
   ![B](https://github.com/Berkayerdogantoronto/Exploratory-Data-Analysis/assets/141277627/c81a0810-7f1c-4d5e-92c9-98e448a82254)
 
 * A significant portion of programmers work part-time or as freelancers, which can be an excellent way to break into the sector, especially if you're just starting out.
+  ![C](https://github.com/Berkayerdogantoronto/Exploratory-Data-Analysis/assets/141277627/a02ee19e-0fa3-4924-9b64-3a58a0b86d00)
+
 * Python is the language that most people want to learn since it is a simple general-purpose programming language that can be used in a variety of domains.
 * At any age, you can learn and begin a career in programming. If you enjoy programming as a pastime, you're more likely to have a long and satisfying career.
 * Javascript & HTML/CSS are the most used programming languages in, closely followed by SQL & Python.

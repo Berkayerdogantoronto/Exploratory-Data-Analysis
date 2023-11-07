@@ -13,3 +13,8 @@ This project aims to perform Exploratory Data Analysis (EDA) on the StackOverflo
 * Q10) What are the differences in the average weekly working hours among developers from various ethnic backgrounds, specifically focusing on White, Latino/Hispanic, East Asian, South Asian, Middle Eastern, and Black individuals)
 
 And moreover in the project, By addressing these questions, we seek to provide valuable insights into the developer community, helping developers, employers, and other stakeholders make informed decisions based on the data-driven findings.
+## Conclusions
+* Based on the demographics of the survey respondents, we can conclude that the survey is relatively representative of the overall programming community. However, it received fewer responses from programmers from non-English-speaking nations, as well as from women and non-binary genders.
+* Although the majority of programmers have a college degree, many of them did not major in computer science. As a result, a computer science degree is not required to learn to code or pursue a career in programming.
+* A significant portion of programmers work part-time or as freelancers, which can be an excellent way to break into the sector, especially if you're just starting out.
+* 

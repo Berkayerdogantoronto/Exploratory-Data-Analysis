@@ -16,6 +16,8 @@ This project aims to perform Exploratory Data Analysis (EDA) on the StackOverflo
 And moreover in the project, By addressing these questions, we seek to provide valuable insights into the developer community, helping developers, employers, and other stakeholders make informed decisions based on the data-driven findings.
 ## Conclusions
 * Based on the demographics of the survey respondents, we can conclude that the survey is relatively representative of the overall programming community. However, it received fewer responses from programmers from non-English-speaking nations, as well as from women and non-binary genders.
+  ![D](https://github.com/Berkayerdogantoronto/Exploratory-Data-Analysis/assets/141277627/d9a2ed77-d9a0-4e5c-b5e5-3d7f9fd5df2e)
+
 * In Canada, the most commonly used programming languages among developers are JavaScript, HTML/CSS, SQL, and Python. JavaScript is a popular choice for web development, HTML/CSS is crucial for building web pages, SQL is needed for database management, and Python is versatile for various tasks. These languages play key roles in Canadian software development, reflecting the country's focus on web technologies, data management, and a diverse software landscape.
   ![CANADA](https://github.com/Berkayerdogantoronto/Exploratory-Data-Analysis/assets/141277627/22c728bb-24b5-4435-880c-ba6946df297e)
 

@@ -1,3 +1,4 @@
+![exploratory-data-analysis](https://github.com/Berkayerdogantoronto/Exploratory-Data-Analysis/assets/141277627/1e456905-364c-4f61-836b-a8052cd2feb2)
 # Exploratory-Data-Analysis
 ## Problem Statement
 This project aims to perform Exploratory Data Analysis (EDA) on the StackOverflow Developer Survey dataset, which contains responses from developers worldwide. The goal of this analysis is to gain insights into various aspects of the developer community, such as demographics, programming languages, job satisfaction, and more. By exploring the data, we aim to answer the following questions:

@@ -28,8 +28,14 @@ And moreover in the project, By addressing these questions, we seek to provide v
   ![C](https://github.com/Berkayerdogantoronto/Exploratory-Data-Analysis/assets/141277627/a02ee19e-0fa3-4924-9b64-3a58a0b86d00)
 
 * Python is the language that most people want to learn since it is a simple general-purpose programming language that can be used in a variety of domains.
+  ![eE](https://github.com/Berkayerdogantoronto/Exploratory-Data-Analysis/assets/141277627/5a4c349e-b776-4620-a1b9-505d80a39e74)
+
 * At any age, you can learn and begin a career in programming. If you enjoy programming as a pastime, you're more likely to have a long and satisfying career.
+  ![G](https://github.com/Berkayerdogantoronto/Exploratory-Data-Analysis/assets/141277627/e1a5a0db-15e8-40db-80a0-6fabe92aa7a5)
+
 * Javascript & HTML/CSS are the most used programming languages in, closely followed by SQL & Python.
+  ![U](https://github.com/Berkayerdogantoronto/Exploratory-Data-Analysis/assets/141277627/1b1d7809-09ce-4ffe-a86c-5c24d8bcc965)
+
 * Looking ahead to the next year, it's clear that many people want to learn specific programming languages. Python is at the top, likely because it's used in a wide range of jobs, from websites to data work. JavaScript is a close second because it's vital for web development, while HTML/CSS are the basics of web design. SQL is important for managing data, and TypeScript is gaining interest for making web projects more stable and reliable. These choices show a desire to gain skills that are practical, in-demand, and open doors to different job opportunities in the world of programming.
 * Iran, Israel, and China have the highest working hours, followed by the United States. However, there isn't a difference between work hours and the average working hours seem to be around 40 hours per week.
 * India and the United States stand out as the leading contributors to this demographic, underscoring the international nature of the software industry. Additionally, the strong representation of countries from Europe, South America, and North America suggests that early-career developers are distributed across various regions, reflecting the diverse and dynamic nature of the developer community in these age brackets.

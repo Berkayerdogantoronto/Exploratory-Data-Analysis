@@ -10,6 +10,6 @@ This project aims to perform Exploratory Data Analysis (EDA) on the StackOverflo
 * Q7) What are the most common countries of residence among the survey respondents between 18-30(early career)?
 * Q8) How satisfied are developers with their jobs?
 * Q9) What are the most commonly used database technologies among developers, and is there a relationship between the choice of a database and the developer's years of coding experience?
-* Q10) What are the differences in the average weekly working hours among developers from various ethnic backgrounds, specifically focusing on White, Latino/Hispanic, East Asian, South Asian, Middle Eastern and Black individuals)
+* Q10) What are the differences in the average weekly working hours among developers from various ethnic backgrounds, specifically focusing on White, Latino/Hispanic, East Asian, South Asian, Middle Eastern, and Black individuals)
 
-By addressing these questions, we seek to provide valuable insights into the developer community, helping developers, employers, and other stakeholders make informed decisions based on the data-driven findings.
+And moreover in the project, By addressing these questions, we seek to provide valuable insights into the developer community, helping developers, employers, and other stakeholders make informed decisions based on the data-driven findings.

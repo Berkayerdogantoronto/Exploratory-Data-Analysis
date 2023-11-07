@@ -17,6 +17,8 @@ And moreover in the project, By addressing these questions, we seek to provide v
 ## Conclusions
 * Based on the demographics of the survey respondents, we can conclude that the survey is relatively representative of the overall programming community. However, it received fewer responses from programmers from non-English-speaking nations, as well as from women and non-binary genders.
 * In Canada, the most commonly used programming languages among developers are JavaScript, HTML/CSS, SQL, and Python. JavaScript is a popular choice for web development, HTML/CSS is crucial for building web pages, SQL is needed for database management, and Python is versatile for various tasks. These languages play key roles in Canadian software development, reflecting the country's focus on web technologies, data management, and a diverse software landscape.
+  ![CANADA](https://github.com/Berkayerdogantoronto/Exploratory-Data-Analysis/assets/141277627/22c728bb-24b5-4435-880c-ba6946df297e)
+
 * Although the majority of programmers have a college degree, many of them did not major in computer science. As a result, a computer science degree is not required to learn to code or pursue a career in programming.
 * A significant portion of programmers work part-time or as freelancers, which can be an excellent way to break into the sector, especially if you're just starting out.
 * Python is the language that most people want to learn since it is a simple general-purpose programming language that can be used in a variety of domains.
